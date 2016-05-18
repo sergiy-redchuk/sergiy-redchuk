@@ -3,11 +3,11 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>IMZm-12</groupId>
-  <artifactId>Koloshmatin_Taras</artifactId>
+  <artifactId>Redchuk_Sergiy</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>jar</packaging>
 
-  <name>Koloshmatin_Taras</name>
+  <name>Redchuk_Sergiy</name>
   <url>http://maven.apache.org</url>
 
   <properties>
